@@ -1,3 +1,5 @@
+Optimise your portfolio using efficient frontier to maximise gains and minimize risks
+
 To set up and run the codebase, three processes are required:
 
 -   The python server. The code for this server is contained in the
